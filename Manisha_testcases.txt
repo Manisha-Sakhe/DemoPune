@@ -1,0 +1,87 @@
+ ******Travel Booking
+Test Case: Book a Hotel
+
+Test Case 1: Search for Hotels
+
+Open the hotel booking website.
+Enter the destination city.
+Select check-in and check-out dates.
+Choose the number of guests.
+Click on the "Search" button.
+---------------------------------------------------------------------------------------------------------
+
+Test Case 2: View Hotel Details
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Click on the first hotel in the search results.
+Verify that the hotel details page is displayed with information about amenities, room types, and pricing.
+----------------------------------------------------------------------------------------------------------
+
+Test Case 3: Filter by Price Range
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Use the price range filter to narrow down the search results.
+ 
+-------------------------------------------------------------------------------------------------------------------
+
+Test Case 4: Sort Search Results
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Choose to sort the search results by price (low to high).
+Verify that the search results are sorted accordingly.
+-----------------------------------------------------------------------------------------------------------------
+
+Test Case 5: Select Room Type
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Click on a hotel to view its details.
+Select a specific room type from the available options.
+Verify that the selected room type is added to the booking summary.
+----------------------------------------------------------------------------------------------------------------
+
+Test Case 6: Add Guest Details
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Click on a hotel to view its details.
+Select a room type and proceed to booking.
+Enter guest details .
+Verify that guest details are added to the booking summary.
+----------------------------------------------------------------------------------------------------------------
+
+Test Case 7: Apply Promo Code
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Select a hotel and proceed to booking.
+Enter guest details.
+Apply a valid promo code.
+Verify that the promo code is successfully applied, and the pricing is adjusted.
+----------------------------------------------------------------------------------------------------
+
+Test Case 8: Review Booking Summary
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Select a hotel and proceed to booking.
+Enter guest details and apply a promo code.
+Review the booking summary with room details, guest information, and pricing.
+Verify that all the details in the summary are accurate.
+---------------------------------------------------------------------------------------------------
+
+Test Case 9: Complete Booking
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Select a hotel and proceed to booking.
+Enter guest details and apply a promo code if applicable.
+Review the booking summary.
+Click on the "Book Now" or "Complete Booking" button.
+Verify that a confirmation page or email is displayed indicating a successful booking.
+------------------------------------------------------------------------------------------------
+
+Test Case 10: Cancel Booking
+Open the hotel booking website.
+Search for hotels as in Test Case 1.
+Select a hotel and proceed to booking.
+Enter guest details.
+Complete the booking.
+Open the confirmation email or booking history.
+Cancel the booking.
+Verify that the booking is canceled, and the status is reflected correctly.
